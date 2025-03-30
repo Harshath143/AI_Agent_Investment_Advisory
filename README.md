@@ -19,8 +19,8 @@ The AI Agent Investment Advisor is a sophisticated AI-powered financial advisory
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/AI_Investment_Advisor.git
-   cd AI_Investment_Advisor
+   git clone https://github.com/yourusername/AI_Agent_Investment_Advisor.git
+   cd AI_Agent_Investment_Advisor
    ```
 2. Create a virtual environment (optional but recommended):
    ```sh
@@ -35,7 +35,7 @@ The AI Agent Investment Advisor is a sophisticated AI-powered financial advisory
 
 ## Project Structure
 ```
-AI_Investment_Advisor/
+AI_Agent_Investment_Advisor/
 │-- AI_Agent_IA.py             # Main AI advisory agent
 │-- data_generation.py         # Generates mutual funds, stocks, and user profiles
 │-- requirements.txt           # Project dependencies
